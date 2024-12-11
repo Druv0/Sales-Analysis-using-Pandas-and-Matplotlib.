@@ -26,7 +26,7 @@ The dataset includes sales data for various electronic products, containing the 
 - `Date of Sale`: The date when the product was sold.
 - `Category`: The category of the product (e.g., smartphones, laptops, accessories).
 ### Background information:
-- start by cleaning our data. Tasks during my section include:
+- start by cleaning the data. Tasks during my section include:
 - Drop NaN values from DataFrame
 - Removing rows based on a condition
 - Change the type of columns (to_numeric, to_datetime, astype)
